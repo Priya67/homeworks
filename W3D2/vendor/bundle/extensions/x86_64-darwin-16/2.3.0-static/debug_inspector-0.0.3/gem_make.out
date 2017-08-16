@@ -1,0 +1,15 @@
+current directory: /Users/priyamangal/Desktop/demo_project/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170816-17388-1j0hhqr.rb extconf.rb
+creating Makefile
+
+current directory: /Users/priyamangal/Desktop/demo_project/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/priyamangal/Desktop/demo_project/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/priyamangal/Desktop/demo_project/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170816-17388-13pry7y
