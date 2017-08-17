@@ -1,0 +1,19 @@
+current directory: /Users/priyamangal/Downloads/W3D4_Hw/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170817-98639-lukg5d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/priyamangal/Downloads/W3D4_Hw/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/priyamangal/Downloads/W3D4_Hw/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/priyamangal/Downloads/W3D4_Hw/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170817-98639-195ufgy/byebug
