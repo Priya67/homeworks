@@ -1,5 +1,5 @@
-current directory: /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ext/nokogiri
-/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170817-43688-1ac3vji.rb extconf.rb
+current directory: /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ext/nokogiri
+/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170817-21184-jfp9vf.rb extconf.rb
 checking if the C compiler accepts ... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
@@ -34,24 +34,24 @@ Note, however, that nokogiri is not fully compatible with arbitrary
 versions of libxml2 provided by OS/package vendors.
 ************************************************************************
 Extracting libxml2-2.9.4.tar.gz into tmp/x86_64-apple-darwin16.6.0/ports/libxml2/2.9.4... OK
-Running git apply with /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0001-Fix-comparison-with-root-node-in-xmlXPathCmpNodes.patch... OK
-Running git apply with /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0002-Fix-XPointer-paths-beginning-with-range-to.patch... OK
-Running git apply with /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0003-Disallow-namespace-nodes-in-XPointer-ranges.patch... OK
+Running git apply with /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0001-Fix-comparison-with-root-node-in-xmlXPathCmpNodes.patch... OK
+Running git apply with /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0002-Fix-XPointer-paths-beginning-with-range-to.patch... OK
+Running git apply with /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/patches/libxml2/0003-Disallow-namespace-nodes-in-XPointer-ranges.patch... OK
 Running 'configure' for libxml2 2.9.4... OK
 Running 'compile' for libxml2 2.9.4... OK
-Running 'install' for libxml2 2.9.4... ERROR, review '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ext/nokogiri/tmp/x86_64-apple-darwin16.6.0/ports/libxml2/2.9.4/install.log' to see what happened. Last lines are:
+Running 'install' for libxml2 2.9.4... ERROR, review '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ext/nokogiri/tmp/x86_64-apple-darwin16.6.0/ports/libxml2/2.9.4/install.log' to see what happened. Last lines are:
 ========================================================================
 Making install in libxml
 make[4]: Nothing to be done for `install-exec-am'.
- ../.././install-sh -c -d '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
- /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
- /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ ../.././install-sh -c -d '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
 make[4]: Nothing to be done for `install-exec-am'.
 make[4]: Nothing to be done for `install-data-am'.
 Making install in .
- ./install-sh -c -d '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
- /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
-libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib/libxml2.la
+ ./install-sh -c -d '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
+libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib/libxml2.la
 usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
                [-o owner] file1 file2
        install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
@@ -92,11 +92,11 @@ Provided configuration options:
 	--without-zlib-lib=${zlib-dir}/lib
 	--enable-cross-build
 	--disable-cross-build
-/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:400:in `block in execute': Failed to complete install task (RuntimeError)
-	from /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:371:in `chdir'
-	from /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:371:in `execute'
-	from /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:119:in `install'
-	from /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:154:in `cook'
+/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:400:in `block in execute': Failed to complete install task (RuntimeError)
+	from /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:371:in `chdir'
+	from /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:371:in `execute'
+	from /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:119:in `install'
+	from /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/mini_portile2-2.2.0/lib/mini_portile2/mini_portile.rb:154:in `cook'
 	from extconf.rb:365:in `block (2 levels) in process_recipe'
 	from extconf.rb:257:in `block in chdir_for_build'
 	from extconf.rb:256:in `chdir'
@@ -108,6 +108,6 @@ Provided configuration options:
 
 To see why this extension failed to compile, please check the mkmf.log which can be found here:
 
-  /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/extensions/x86_64-darwin-16/2.3.0-static/nokogiri-1.8.0/mkmf.log
+  /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/extensions/x86_64-darwin-16/2.3.0-static/nokogiri-1.8.0/mkmf.log
 
 extconf failed, exit code 1

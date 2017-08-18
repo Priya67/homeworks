@@ -797,8 +797,8 @@ runtest.c:2145:65: warning: unused parameter 'options' [-Wunused-parameter]
   CCLD     testrecurse
   CC       testlimits.o
   CCLD     testlimits
-sed -e 's?\@XML_LIBDIR\@?-L/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib?g' \
-	    -e 's?\@XML_INCLUDEDIR\@?-I/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2?g' \
+sed -e 's?\@XML_LIBDIR\@?-L/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib?g' \
+	    -e 's?\@XML_INCLUDEDIR\@?-I/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2?g' \
 	    -e 's?\@VERSION\@?2.9.4?g' \
 	    -e 's?\@XML_LIBS\@?-lxml2 -lz  -lpthread  -liconv  -lm ?g' \
 	       < ./xml2Conf.sh.in > xml2Conf.tmp \

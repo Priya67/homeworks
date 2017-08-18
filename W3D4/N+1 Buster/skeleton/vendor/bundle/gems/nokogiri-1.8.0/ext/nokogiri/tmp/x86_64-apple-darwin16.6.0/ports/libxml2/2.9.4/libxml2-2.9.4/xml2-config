@@ -1,9 +1,9 @@
 #! /bin/sh
 
-prefix=/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4
+prefix=/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4
 exec_prefix=${prefix}
 includedir=${prefix}/include
-libdir=/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib
+libdir=/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib
 
 usage()
 {

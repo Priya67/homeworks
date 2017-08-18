@@ -2,15 +2,15 @@
 Making install in include
 Making install in libxml
 make[4]: Nothing to be done for `install-exec-am'.
- ../.././install-sh -c -d '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
- /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
- /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ ../.././install-sh -c -d '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX.h entities.h encoding.h parser.h parserInternals.h xmlerror.h HTMLparser.h HTMLtree.h debugXML.h tree.h list.h hash.h xpath.h xpathInternals.h xpointer.h xinclude.h xmlIO.h xmlmemory.h nanohttp.h nanoftp.h uri.h valid.h xlink.h xmlversion.h DOCBparser.h catalog.h threads.h globals.h c14n.h xmlautomata.h xmlregexp.h xmlmodule.h xmlschemas.h schemasInternals.h xmlschemastypes.h xmlstring.h xmlunicode.h xmlreader.h relaxng.h dict.h '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
+ /usr/bin/install -c -m 644 SAX2.h xmlexports.h xmlwriter.h chvalid.h pattern.h xmlsave.h schematron.h '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/include/libxml2/libxml'
 make[4]: Nothing to be done for `install-exec-am'.
 make[4]: Nothing to be done for `install-data-am'.
 Making install in .
- ./install-sh -c -d '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
- /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
-libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/priyamangal/Downloads/W3D4_Hw/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib/libxml2.la
+ ./install-sh -c -d '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
+ /bin/sh ./libtool   --mode=install /usr/bin/install -c   libxml2.la '/Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib'
+libtool: install: /usr/bin/install -c .libs/libxml2.lai /Users/priyamangal/Documents/homeworks/W3D4/N+1 Buster/skeleton/vendor/bundle/gems/nokogiri-1.8.0/ports/x86_64-apple-darwin16.6.0/libxml2/2.9.4/lib/libxml2.la
 usage: install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]
                [-o owner] file1 file2
        install [-bCcpSsv] [-B suffix] [-f flags] [-g group] [-m mode]

@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/Users/priyamangal/Downloads/W3D4_Hw/N+1'
+libdir='/Users/priyamangal/Documents/homeworks/W3D4/N+1'
