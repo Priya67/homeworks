@@ -1,0 +1,15 @@
+current directory: /Users/priyamangal/Documents/homeworks/W4D5/MusicApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170827-7358-diktf6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/priyamangal/Documents/homeworks/W4D5/MusicApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/priyamangal/Documents/homeworks/W4D5/MusicApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/priyamangal/Documents/homeworks/W4D5/MusicApp/vendor/bundle/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170827-7358-9h44hc
